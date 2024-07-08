@@ -15,7 +15,7 @@ public class PrimeiroPrograma {
     public static void main(String[] args) {
         System.out.println("Primeiro programa");
         //Uma sentença de código termina com ;
-        //Mais um comentáro...
+        //Mais um comentáro....
         //Fim
         System.out.println("Segundo programa");
         /*
