@@ -18,7 +18,7 @@ public class TiposPrimitivos {
         //Assim como no LONG, no FLOAT tambem é boa pratica informar com um F ao final do valor;
         double vendasAcumuladas = 2_991_797_103.01;
 
-        //Tipo boleano;
+        //Tipo boleano.;
 
         boolean estaDeFerias = false; //True
 
